@@ -2,7 +2,7 @@
 
 ###
 
-#🛠 Language and tools
+# 🛠 Language and tools
 
 ###
 
