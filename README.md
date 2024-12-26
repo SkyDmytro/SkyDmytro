@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+#🛠 Language and tools
 
 ###
 
@@ -28,8 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
+###
 
 # 📊 GitHub Stats:
+
+###
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkyDmytro&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDmytro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
