@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/dima-skydan-160010247/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/dima-skydan-160010247/" title="LinkedIn Profile"><img width="22" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"> LinkedIn</a></code>
 </h5>
 
 ###
