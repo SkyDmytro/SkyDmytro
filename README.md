@@ -37,4 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkyDmytro&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDmytro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skyDmytro&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 
