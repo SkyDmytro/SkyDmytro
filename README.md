@@ -14,7 +14,7 @@ Passionate Software Developer | Web Design Enthusiast
 
 # 🛠 Language and tools
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="88">
       <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
@@ -68,6 +68,7 @@ Passionate Software Developer | Web Design Enthusiast
     </td>
   </tr>
 </table>
+
 
 # 📊 GitHub Stats:
 
