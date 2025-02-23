@@ -69,9 +69,6 @@ Passionate Software Developer | Web Design Enthusiast
   </tr>
 </table>
 
-</div>
-
-###
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkyDmytro&theme=tokyonight&hide_border=false)
