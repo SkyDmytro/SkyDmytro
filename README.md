@@ -8,12 +8,12 @@
 </h1>
   </div>
 
-# About Me :
+# 🧐 About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+Passionate Software Developer
 
 # 🛠 Language and tools
-
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="88">
@@ -68,6 +68,7 @@ Passionate Software Developer | Web Design Enthusiast
     </td>
   </tr>
 </table>
+</div>
 
 
 # 📊 GitHub Stats:
