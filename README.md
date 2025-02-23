@@ -1,35 +1,64 @@
+<div id="header" align="center">
+
+<img src="./assets/github.gif" width="100"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Skydan+Dmytro;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Skydan+Dmytro;Nice+to+meet+you!&center=true&size=30&color=F7F7F7">
   </a>
 </h1>
+  </div>
+
+# 🧐 About Me :
+
+Passionate Software Developer
 
 # 🛠 Language and tools
 
-#### Languages:
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</div>
+<table>
+  <tr>
+    <td align="center" width="88">
+      <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/><br>HTML5
+    </td>
+    <td align="center" width="88">
+      <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/><br>CSS3
+    </td>
+    <td align="center" width="88">
+      <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/><br>JavaScript
+    </td>
+    <td align="center" width="88">
+      <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/><br>TypeScript
+    </td>
+    <td align="center" width="88">
+      <img src="./images/06-react.svg" alt="React" width="44" height="44"/><br>React.js
+    </td>
+    <td align="center" width="88">
+      <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/><br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="88">
+      <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/><br>Sass
+    </td>
+    <td align="center" width="88">
+      <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/><br>Tailwind
+    </td>
+    <td align="center" width="88">
+      <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/><br>Redux
+    </td>
+    <td align="center" width="88">
+      <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/><br>MongoDB
+    </td>
+    <td align="center" width="88">
+      <img src="./images/16-git.svg" alt="Git" width="44" height="44"/><br>Git
+    </td>
+    <td align="center" width="88">
+      <img src="./images/17-vscode.svg" alt="VSCode" width="44" height="44"/><br>VSCode
+    </td>
+  </tr>
+</table>
 
-#### Frameworks:
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-</div>
-
-#### Tools:
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-</div>
-
-###
 # 📊 GitHub Stats:
+<div style="flex: 2; text-align: center;">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkyDmytro&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDmytro&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -37,3 +66,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyDmytro&theme=tokyonight)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=skyDmytro&theme=tokyonight&bg_color=20232a&hide_border=true)
+</div>
