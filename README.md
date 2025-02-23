@@ -13,6 +13,8 @@
 Passionate Software Developer
 
 # 🛠 Language and tools
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -70,7 +72,7 @@ Passionate Software Developer
 </table>
 </div>
 
-
+<div style="flex: 2; text-align: center;">
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkyDmytro&theme=tokyonight&hide_border=false)
@@ -79,3 +81,5 @@ Passionate Software Developer
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyDmytro&theme=tokyonight)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=skyDmytro&theme=tokyonight&bg_color=20232a&hide_border=true)
+</div>
+</div>
