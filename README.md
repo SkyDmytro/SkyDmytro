@@ -14,7 +14,7 @@ Passionate Software Developer
 
 # 🛠 Language and tools
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="88">
       <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
