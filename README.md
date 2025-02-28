@@ -12,6 +12,8 @@
 
 Passionate Software Developer
 
+![](https://www.codewars.com/users/Skydmytro/badges/large)
+
 # 🛠 Language and tools
 
 <table>
