@@ -36,6 +36,9 @@ Passionate Software Developer
     <td align="center" width="88">
       <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/><br>Next.js
     </td>
+     <td align="center" width="88">
+      <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/><br>Postman
+    </td>
   </tr>
   <tr>
     <td align="center" width="88">
@@ -55,6 +58,9 @@ Passionate Software Developer
     </td>
     <td align="center" width="88">
       <img src="./images/17-vscode.svg" alt="VSCode" width="44" height="44"/><br>VSCode
+    </td>
+    <td align="center" width="88">
+      <img src="./images/obsidian.svg" alt="Obsidian" width="44" height="44"/><br>Obsidian
     </td>
   </tr>
 </table>
